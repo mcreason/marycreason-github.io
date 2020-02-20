@@ -2,3 +2,4 @@ theme: jekyll-theme-midnight
 plugins:
   - jekyll-default-layout
 title: Mary Creason
+description: Resume
