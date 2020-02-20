@@ -1,3 +1,11 @@
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-default-layout
+title: Mary Creason
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Resume
+  <br><br>
+  <a href="https://www.linkedin.com/in/mary-creason-73775b22/">View My LinkedIn Profile</a> 
+  
+# theme: jekyll-theme-minimal
