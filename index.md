@@ -8,8 +8,10 @@ As a Full Stack Developer/Technical Lead I have a diverse set of skills ranging 
     **( May 2019 - Present )**
     - Requirements gathering for a new solution for a new customer
     - Scrum master for team of 4-5 developers
+    - Successfully delivered Product Increment I(MVP) and UAT and Demo environments
     - Groom backlog with product owner for new stories/epics in JIRA for bodies of work
     - Working with team to stand up a new solution completely in AWS utilizing ECS, S3, RDS, gitlab CI/CD, K8s, Vue.js
+    - Team averaged a significantly high velocity and delivered consistently
     - Developed and deployed to enterprise a microservice for document rendering using html template and json data for billing documents
     - Developed new screens utilizing Vue.js and nuxt.js framework
     
