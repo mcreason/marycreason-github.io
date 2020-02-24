@@ -15,7 +15,7 @@ As a Full Stack Developer/Technical Lead I have a diverse set of skills ranging 
     
     **[ Software Engineer II ]**
     
-    **( Nov 2013 - May 2019 )**
+    **( Aug 2016 - May 2019 )**
     -  New feature development in Perl, Ruby, Vue.js utilizing Oracle customer databases.
     - Design lead for a Vue.js application building the app from the ground up, understanding business needs, technical capabilities, and gathering requirements from client.
     - Edited and created complex database packages, sql queries, types, views, etc and using with Perl and Ruby logical solutions.
