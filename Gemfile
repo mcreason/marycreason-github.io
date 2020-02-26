@@ -1,1 +1,3 @@
-gem 'jekyll-default-layout'
+source "https://rubygems.org"
+
+gem "jekyll"
